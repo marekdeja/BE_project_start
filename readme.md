@@ -1,3 +1,4 @@
-Backend boilerplate with Node.js, Express, Mongo DB
+A boilerplate for starting a Node Express service with REST methods.
 
-Create .env file with DATABASE_URL
+Install dependencies and a create **.env** file with:
+DATABASE_URL = _your database url_
